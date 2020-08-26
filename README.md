@@ -1,2 +1,2 @@
-# tend-a-pet-backend
-Backend code for tend-a-pet
+# tend-a-pet
+For your pets only.
